@@ -5,3 +5,5 @@ An autoencoder is a simple neural network with three layers, input, hidden and o
 Dependencies : Python, numpy, tensorflow (use pip to install)
 
 Credit: Tensorflow team \m/
+
+Note: Run main.py and it will start downloading the MNIST dataset.
